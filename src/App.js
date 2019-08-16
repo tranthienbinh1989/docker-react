@@ -12,8 +12,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           Hi there!
-          Realtime changes
-          How it can happen
+          Feature
         </p>
       </div>
     );
